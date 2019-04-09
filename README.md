@@ -1,11 +1,14 @@
 # leetcode
 
 一日一leetcode 远离996
+努力，加油，打卡
 
 
 [16.最接近的三数之和](https://github.com/linqibin/leetcode/issues/4)
 
 [20.有效的括号](https://github.com/linqibin/leetcode/issues/1)
+
+[23. 合并K个排序链表](https://github.com/linqibin/leetcode/issues/5)
 
 [841. 钥匙和房间](https://github.com/linqibin/leetcode/issues/2)
 
