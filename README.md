@@ -12,6 +12,8 @@
 
 [33. 搜索旋转排序数组](https://github.com/linqibin/leetcode/issues/6)
 
+[43. 字符串相乘](https://github.com/linqibin/leetcode/issues/7)
+
 [841. 钥匙和房间](https://github.com/linqibin/leetcode/issues/2)
 
 [843. 猜猜这个单词](https://github.com/linqibin/leetcode/issues/3)
