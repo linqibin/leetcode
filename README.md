@@ -10,6 +10,8 @@
 
 [23. 合并K个排序链表](https://github.com/linqibin/leetcode/issues/5)
 
+[33. 搜索旋转排序数组](https://github.com/linqibin/leetcode/issues/6)
+
 [841. 钥匙和房间](https://github.com/linqibin/leetcode/issues/2)
 
 [843. 猜猜这个单词](https://github.com/linqibin/leetcode/issues/3)
