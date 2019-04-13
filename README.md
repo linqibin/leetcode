@@ -18,6 +18,8 @@
 
 [146. LRU缓存机制](https://github.com/linqibin/leetcode/issues/9)
 
+[124. 二叉树中的最大路径和](https://github.com/linqibin/leetcode/issues/10)
+
 [841. 钥匙和房间](https://github.com/linqibin/leetcode/issues/2)
 
 [843. 猜猜这个单词](https://github.com/linqibin/leetcode/issues/3)
