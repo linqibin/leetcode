@@ -16,9 +16,9 @@
 
 [54. 螺旋矩阵](https://github.com/linqibin/leetcode/issues/8)
 
-[146. LRU缓存机制](https://github.com/linqibin/leetcode/issues/9)
-
 [124. 二叉树中的最大路径和](https://github.com/linqibin/leetcode/issues/10)
+
+[146. LRU缓存机制](https://github.com/linqibin/leetcode/issues/9)
 
 [841. 钥匙和房间](https://github.com/linqibin/leetcode/issues/2)
 
