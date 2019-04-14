@@ -10,6 +10,8 @@
 
 [23. 合并K个排序链表](https://github.com/linqibin/leetcode/issues/5)
 
+[30. 串联所有单词的子串](https://github.com/linqibin/leetcode/issues/11)
+
 [33. 搜索旋转排序数组](https://github.com/linqibin/leetcode/issues/6)
 
 [43. 字符串相乘](https://github.com/linqibin/leetcode/issues/7)
