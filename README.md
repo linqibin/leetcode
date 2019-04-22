@@ -18,6 +18,8 @@
 
 [54. 螺旋矩阵](https://github.com/linqibin/leetcode/issues/8)
 
+[61. 旋转链表](https://github.com/linqibin/leetcode/issues/12)
+
 [124. 二叉树中的最大路径和](https://github.com/linqibin/leetcode/issues/10)
 
 [146. LRU缓存机制](https://github.com/linqibin/leetcode/issues/9)
