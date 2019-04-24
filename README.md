@@ -14,6 +14,8 @@
 
 [33. 搜索旋转排序数组](https://github.com/linqibin/leetcode/issues/6)
 
+[41. 缺失的第一个正数](https://github.com/linqibin/leetcode/issues/13)
+
 [43. 字符串相乘](https://github.com/linqibin/leetcode/issues/7)
 
 [54. 螺旋矩阵](https://github.com/linqibin/leetcode/issues/8)
