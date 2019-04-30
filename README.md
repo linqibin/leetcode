@@ -18,6 +18,8 @@
 
 [43. 字符串相乘](https://github.com/linqibin/leetcode/issues/7)
 
+[45. 跳跃游戏 II](https://github.com/linqibin/leetcode/issues/14)
+
 [54. 螺旋矩阵](https://github.com/linqibin/leetcode/issues/8)
 
 [61. 旋转链表](https://github.com/linqibin/leetcode/issues/12)
