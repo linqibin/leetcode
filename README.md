@@ -28,6 +28,8 @@
 
 [146. LRU缓存机制](https://github.com/linqibin/leetcode/issues/9)
 
+[174. 地下城游戏](https://github.com/linqibin/leetcode/issues/15) 
+
 [841. 钥匙和房间](https://github.com/linqibin/leetcode/issues/2)
 
 [843. 猜猜这个单词](https://github.com/linqibin/leetcode/issues/3)
