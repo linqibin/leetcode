@@ -24,6 +24,8 @@
 
 [61. 旋转链表](https://github.com/linqibin/leetcode/issues/12)
 
+[62. 不同路径 ](https://github.com/linqibin/leetcode/issues/17)
+
 [76. 最小覆盖子串](https://github.com/linqibin/leetcode/issues/16)
 
 [124. 二叉树中的最大路径和](https://github.com/linqibin/leetcode/issues/10)
